@@ -10,9 +10,11 @@ Creative software and web developer from Moldova, Republic of. I have 5 years of
 ## Skills
 
 ### Programming
-- 🥇 **Most experienced** - Javascript
-- 🥈 **Advanced** - C++
-- 🥉 **Intermediate** - Pascal
+🥇 **Most experienced** - Javascript
+
+🥈 **Advanced** - C++
+
+🥉 **Intermediate** - Pascal
 
 ### Languages
 - Romanian **( Native )**
