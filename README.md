@@ -26,7 +26,7 @@ Creative software and web developer from Moldova, Republic of. I have 5 years of
 
 ### Studies & Certifications
 - **( 12 Years )** Middle School & Lyceum **->**  *Bacalaureate diploma*
-- **( Studying )** University of Alexandru Ioan Cuza - Faculty of Computer Science.
+- **( I really want to fucking study here. )** University of Alexandru Ioan Cuza - Faculty of Computer Science.
 - TOEFL iBT Examination **->** *Scored 92 Points*
 
 ### Frameworks and Library Knowledge
