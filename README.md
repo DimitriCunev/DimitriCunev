@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=ZGM90Bo3zH0
 
 ### Studies & Certifications
 - **( 12 Years )** Middle School & Lyceum **->**  *Bacalaureate diploma*
-- **( I really want to fucking study here. )** University of Alexandru Ioan Cuza - Faculty of Computer Science.
+- **( Studying )** University of Alexandru Ioan Cuza
 - TOEFL iBT Examination **->** *Scored 92 Points*
 
 ### Frameworks and Library Knowledge
