@@ -47,3 +47,5 @@ https://www.youtube.com/watch?v=ZGM90Bo3zH0
 **Mouse:** Razer Deathadder Elite
 
 **Keyboard:** Razer Blackwidow Ultimate
+
+![](http://3.250.78.79:3000/vasea)
