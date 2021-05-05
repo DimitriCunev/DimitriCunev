@@ -15,5 +15,5 @@ My biggest project is Pretend Game.
 ## Skills
 
 ### Programming
-🥇 **Good** - Javascript
+🥇 **Better than Vasea and Costea** - Javascript
 
